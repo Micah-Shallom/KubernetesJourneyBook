@@ -1,15 +1,5 @@
-# New post title here
+# Kubernetes Core Concepts
 
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- Learnt about Kubelet
+- KubeProxy
+- Replication Controllers in theory
