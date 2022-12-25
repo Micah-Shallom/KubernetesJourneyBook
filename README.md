@@ -1,12 +1,11 @@
 # 100DaysOfKubernetesJourney
 ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/798px-Kubernetes_logo.svg.png)
 
-
-## [✍️ Your Name]'s Kubernetes Journey
+## Micah Shallom's Kubernetes Journey
 
 ### Your Social
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Twitter](https://twitter.com/Micah_Shallom)
+- [✍️ LinkedIn](https://www.linkedin.com/in/micah-shallom/)
 
 ## Stepping out the door
 
