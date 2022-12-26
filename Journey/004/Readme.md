@@ -1,15 +1,4 @@
-# New post title here
+# Kubernetes Core Concepts
 
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- Learnt about Imperative and Declarative commands
+- Practice labs on resource creations with imperative and declarative commands
