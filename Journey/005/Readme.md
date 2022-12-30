@@ -1,15 +1,6 @@
-# New post title here
+# Scheduling 
 
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- manual pod scheduling
+- labels and selectors
+- annotations
+- taints and tolerations
