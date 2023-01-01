@@ -1,15 +1,6 @@
-# New post title here
+# Scheduling 
 
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- Resource Limits
+- DaemonSets
+- Static Pods
+- Multiple Schedulers
