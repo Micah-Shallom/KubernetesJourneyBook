@@ -1,15 +1,5 @@
-# New post title here
+# Logging and Monitoring
 
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- monitoring cluster components
+- understanding the use of cAdvisor
+- applicaition logs interpretation and understanding
