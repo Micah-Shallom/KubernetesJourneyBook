@@ -1,15 +1,2 @@
-# New post title here
-
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- Took a refresher on all practices tests and assessments
+- starting the kubernetes security section
