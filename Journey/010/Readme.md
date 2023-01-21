@@ -1,15 +1,6 @@
-# New post title here
+# Security
 
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- Learnt about Authorization methods and authentication
+- TLS Certificates
+- Generating Certificates
+- Viewing Certificates
