@@ -1,15 +1,6 @@
-# New post title here
+# Storage
 
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- Storage in containers
+- Container Storage Interface
+- Volumes
+- Persistent volumes
