@@ -1,15 +1,7 @@
-# New post title here
+# Networking
 
-## Introduction
-
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+- Understanding DNS
+- Network Namespaces
+- Container Networking Interface
+- Pod Networking
+- CNI in Kubernetes
