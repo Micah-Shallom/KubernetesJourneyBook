@@ -3,4 +3,4 @@
 - CoreDNS
 - Ingress
 - Ingress Resource
-- Configuring HA
+- Configuring HA in kubernetes
